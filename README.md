@@ -1,4 +1,13 @@
 ### Hi there 👋
+- Hi, I’m Andrea
+- I’m interested in Tiny Machine Learning
+- I’m currently learning Tensor Flow Lite
+- I'm originally from Mexico
+- I'm a sophmore in Computer Engineering
+- I chose my major because I love learning about how the world works
+- A fun fact about me is:  I can name every country in the world
+- What do I want to learn from EE 205?  Get better at using Linux
+- A book or movie I'd recommend is:  The power of now by Eckhart Tolle
 
 <!--
 **andreamurillomtz/andreamurillomtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
