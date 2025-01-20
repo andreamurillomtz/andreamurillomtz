@@ -1,25 +1,12 @@
 ### Hi there 👋
 - Hi, I’m Andrea
-- I’m interested in Tiny Machine Learning
-- I’m currently learning Tensor Flow Lite
+- I’m interested in Mixed-signal systems, and embedded systems
+- I’m currently learning in-memory-computing 
 - I'm originally from Mexico
-- I'm a sophmore in Computer Engineering
+- I'm a junior in Electrical Engineering in the Electrophysics track
 - I chose my major because I love learning about how the world works
 - A fun fact about me is:  I can name every country in the world
-- What do I want to learn from EE 205?  Get better at using Linux
 - A book or movie I'd recommend is:  The power of now by Eckhart Tolle
 
 <!--
 **andreamurillomtz/andreamurillomtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
