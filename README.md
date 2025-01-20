@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Hi, I’m Andrea
-- I’m interested in Mixed-signal systems, and embedded systems
+- I’m interested in mixed-signal systems, and embedded systems
 - I’m currently learning in-memory-computing 
 - I'm originally from Mexico
 - I'm a junior in Electrical Engineering in the Electrophysics track
